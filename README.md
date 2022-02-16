@@ -22,8 +22,8 @@ See books displayed in the console after adding them.
 
 
 Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Solution URL: https://github.com/N-Endy/python_library
+Live Site URL: Through Console
 My process
 Built with
 Python basics
@@ -57,5 +57,5 @@ Ustacky - This is my main resource for learning Data Science with Python.
 Udacity - My initiate introduction to Python was from this resource. It opened me up to accepting and loving Python.
 
 Author
-Website - Add your name here
+Website - In progress
 Twitter - @NELtheDev
