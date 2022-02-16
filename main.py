@@ -47,8 +47,7 @@ def library():
     def print_books():
         for book in our_library:
             for key, value in book.items():
-                print(key + ":", value)
-                print("\n")
+                print(f"{key} : {value} \n")
 
     def add_more_books():
         user_choice = valid_input("Do you want to add more books? "
